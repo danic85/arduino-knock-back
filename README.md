@@ -11,3 +11,5 @@ The device could be expanded to include a stepper motor or similar suitable outp
 You could also use the piezo input sensor as the output buzzer by altering the code.
 
 For information on building the device see http://www.dannicholson.co.uk/2013/07/25/knock-back-a-knock-echoing-arduino/ or http://www.instructables.com/id/Knock-Back-A-Knock-Echoing-Arduino/
+
+All my software is open source, please donate to help keep it free http://dannicholson.co.uk/donate
